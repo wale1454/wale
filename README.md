@@ -1,4 +1,4 @@
 # wale
 Portfolio website
 
-http://olawale.co/
+www.olawale.co/
